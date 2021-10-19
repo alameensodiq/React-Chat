@@ -25,7 +25,7 @@ class Chat extends Component {
 
     mySubmitHandler =(event) =>{
        event.preventDefault();
-       alert('You are looking for'+ ' ' + this.state.username)
+       alert('You are looking for' + ' ' + this.state.username)
     }   
     
     
